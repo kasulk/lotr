@@ -13,6 +13,8 @@ const nextConfig = {
 
     return config;
   },
+  // ICKE: so the ../ at imports isn't necessary anymore
+  // basePath: ".",
 };
 
 module.exports = nextConfig;

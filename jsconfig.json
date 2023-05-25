@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    // ICKE: so the ../ at imports isn't necessary anymore
+    "baseUrl": "."
+  }
+}
